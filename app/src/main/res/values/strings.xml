@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Recycler Grid View</string>
+    <string-array name="company_list">
+        <item>BMW DARK</item>
+        <item>BMW</item>
+        <item>Bugatti22a</item>
+        <item>Car</item>
+        <item>Car2</item>
+        <item>Car3</item>
+        <item>Ferrari</item>
+        <item>Kizashilive</item>
+        <item>Nissan</item>
+        <item>Nissan n2</item>
+        <item>volkswagen</item>
+        <item>Cordoba</item>
+    </string-array>
+</resources>
