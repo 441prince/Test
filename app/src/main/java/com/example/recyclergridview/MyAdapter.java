@@ -14,6 +14,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyViewHolder> {
     public MyAdapter(String[] companyList, Bitmap[] logoList) {
         this.companyList = companyList;
         this.logoList = logoList;
+        //new change
     }
 
 
